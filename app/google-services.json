@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "699293273518",
+    "firebase_url": "https://hospitalspec-226e9.firebaseio.com",
+    "project_id": "hospitalspec-226e9",
+    "storage_bucket": "hospitalspec-226e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699293273518:android:6e0bdb4a59e7e3e9",
+        "android_client_info": {
+          "package_name": "br.iesb.hospitalspec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699293273518-9d6c3d0dq7bthhsk4ob7r2ghrbu2ru4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyR9A721g5S-V87MJLi52iiEqTt20htoU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
